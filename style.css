@@ -1,0 +1,37 @@
+* {
+    background-color: black;
+    color: brown;
+}
+
+.imagen img {
+    width: 100%;
+}
+
+
+
+#datos h1 {
+    margin-left: 30rem;
+    color:coral;
+}
+
+.lista li {
+    color: white;
+    margin-left: 30rem;
+}
+
+#estudios h2 {
+    margin-left: 30rem;
+    font-style: oblique;
+}
+
+.trabajos {
+    margin-left: 30rem;
+    font-style: oblique;
+}
+#trabajosRealizados p {
+    margin-left: 30rem;
+    color: white;
+}
+
+
+
